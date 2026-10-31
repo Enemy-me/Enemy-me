@@ -11,5 +11,5 @@
 *   **Языки:** JS, SCSS, HTML,PHP
 
 ### 📫 Контакты
-*   **Telegram:** @OperaNiderlands
+*   **Telegram:** [@OperaNiderlands](https://t.me/OperaNiderlands)
 *   **Email:** nerbo94s@gmail.com
